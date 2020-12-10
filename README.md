@@ -15,7 +15,7 @@ We want you to create online crypto profit calculator, we can call it Opitco. Op
 ![enter image description here](https://i.ibb.co/ZdRsmkb/Screen-Shot-2020-12-11-at-01-01-23.png)
 
 ## Constraints and Requirement
-- Total Saldo cannot be more than 15, you can set the saldo's as dynamic parameter
+- Saldo is not bank balance is more like quota we can set for trading. Total saldo cannot be more than 15, you can set saldo as dynamic parameter. 
 - You cannot set the SELL order if there is no BUY action on the summary
 - The SELL amount cannot be more than BUY amount that already placed on the summary  
 - To calculate the profit is very simple, just add up the all amount SELL and then subtract with the all amount BUY
